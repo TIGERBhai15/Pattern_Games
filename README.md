@@ -27,16 +27,23 @@ bash
 Copy
 Edit
 pip install PyQt6
+
 ▶️ How to Run
+
 Save the code into a file, e.g., pattern_game.py.
 
 Run the script:
 
 bash
+
 Copy
+
 Edit
+
 python pattern_game.py
+
 🎮 How to Play
+
 Watch the pattern of button highlights (yellow).
 
 Repeat the pattern by clicking the buttons in the same order.
